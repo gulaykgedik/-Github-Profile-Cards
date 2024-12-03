@@ -19,7 +19,7 @@ Kullanıcı bilgileri, GitHub API'si kullanılarak alınır. Eğer aradığını
   
    Takipçi ve takip edilen sayısı
 
-   GitHub profiline gitmek için bir bağlantı
+   GitHub profiline gitmek için bağlantı
 
 - Kullanıcı bulunamadığında hata mesajı görüntüleme.
   
@@ -42,6 +42,7 @@ Kullanıcı bilgileri, GitHub API'si kullanılarak alınır. Eğer aradığını
 <br/>
 
 
+![Github-profil-kartları](https://github.com/user-attachments/assets/8d3002b6-6c9e-4ba1-8772-dfcc1889c986)
 
 
 
