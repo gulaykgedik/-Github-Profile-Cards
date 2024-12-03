@@ -19,6 +19,8 @@ Kullanıcı bilgileri, GitHub API'si kullanılarak alınır. Eğer aradığını
   
    Takipçi ve takip edilen sayısı
 
+   GitHub profiline gitmek için bir bağlantı
+
 - Kullanıcı bulunamadığında hata mesajı görüntüleme.
   
 - Axios kütüphanesiyle API çağrılarının yönetimi.
